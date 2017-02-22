@@ -1,16 +1,14 @@
-Author: chpwn <support@chpwn.com>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Name: Infinifolders
-Package: com.chpwn.infinifolders
+Author: subdiox <subdiox@gmail.com>
+Maintainer: subdiox <subdiox@gmail.com>
+Name: Infinifolders (iOS 10)
+Package: com.subdiox.infinifolders
 Section: Tweaks
 Pre-Depends: firmware (>= 5.0)
 Depends: mobilesubstrate, preferenceloader (>= 1.1), com.chpwn.iconsupport
-Version: 2.1.2
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Scroll your folders: break the icon barrier!
-Depiction: http://chpwn.com/cydia/infinifolders.html
-Homepage: http://chpwn.com/cydia/infinifolders.html
+Description: Scroll your folders: break the icon barrier! (Forked from GitHub of Infiniapps)
+Depiction: http://subdiox.com/infiniapps.html
+Homepage: http://subdiox.com/infiniapps.html
 Icon: file:///Library/PreferenceLoader/Preferences/Infinifolders.png
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: cydia::commercial, purpose::extension
-dev: chpwn
+Tag: purpose::extension
